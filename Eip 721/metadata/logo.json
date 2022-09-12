@@ -1,0 +1,27 @@
+{
+    "name": "Minh Bot",
+    "description":"Create by minh",
+    "image":"https://ipfs.io/ipfs/QmeESig9Ahy2zfBtgMQcjkUVq2KKXC8P8Zux9FsGY3ezS2",
+    "attributes": [
+        {
+            "trait_type": "Speed",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Control",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Acceleration",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Nitro",
+            "value": 2,
+            "max_value": 10
+        }
+    ]
+}
